@@ -4,6 +4,6 @@
     "font-awesome": "^4.7.0"
   },
   "devDependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
